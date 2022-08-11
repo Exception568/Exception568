@@ -1,7 +1,6 @@
 - 👋 Hi, I’m exception
 - 👀 I’m interested in programming,computer vision
 - 🌱 I’m currently learning discord bot development w/disnake
-- 💞️ I’m looking to collaborate on ...
 - 📫 discord - Exception#2603
 <br />![alt text](https://discord.c99.nl/widget/theme-3/944436371555242054.png)
 
