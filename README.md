@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @xw8-568
-- 👀 I’m interested in hacking,programming
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m exception
+- 👀 I’m interested in programming,computer vision
+- 🌱 I’m currently learning discord bot development w/disnake
 - 💞️ I’m looking to collaborate on ...
-- 📫 discord - †🗡xw8/568🗡†#9999 
+- 📫 discord - Exception#2603
+<br />![alt text](https://discord.c99.nl/widget/theme-3/944436371555242054.png)
 
 <!---
 xw8-568/xw8-568 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
