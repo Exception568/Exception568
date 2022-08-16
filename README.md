@@ -1,5 +1,5 @@
 - 👋 Hi, I’m exception
-- 👀 I’m interested in programming,computer vision and web development
+- 👀 I’m interested in python <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" size = 20 height = 20>,reverse engineering,computer vision and web development
 - 🌱 I’m currently learning web development
 - 📫 discord - Exception#2603
 <br />![alt text](https://discord.c99.nl/widget/theme-3/944436371555242054.png)
