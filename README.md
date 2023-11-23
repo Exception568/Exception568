@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend development
 - 📫 discord - Exception#8037
 <br>
-<img src = "https://discord.c99.nl/widget/theme-1/944436371555242054.png">
+<img src = "[https://discord.c99.nl/widget/theme-1/944436371555242054.png](https://discord.c99.nl/widget/theme-2/944436371555242054.png)">
 <img src = "https://cdn.discordapp.com/emojis/980742479546572850.webp?size=96&quality=lossless" height = 45 width = 40 title = "shame">
 <!---
 xw8-568/xw8-568 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
