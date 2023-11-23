@@ -5,8 +5,8 @@
 <br>
 <img src = "https://discord.c99.nl/widget/theme-2/944436371555242054.png">
 <img src = "https://camo.githubusercontent.com/3c81155476f1538bc832e708f30e1b3eecc2cb418193ebbeaf50bcae7048853a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d666666267374796c653d666f722d7468652d6261646765">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Exception568)](https://github.com/ryo-ma/github-profile-trophy)
 <img src = "https://cdn.discordapp.com/emojis/980742479546572850.webp?size=96&quality=lossless" height = 45 width = 40 title = "shame">
+[![trophy](https://github-profile-trophy.vercel.app/?username=Exception568)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 xw8-568/xw8-568 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
